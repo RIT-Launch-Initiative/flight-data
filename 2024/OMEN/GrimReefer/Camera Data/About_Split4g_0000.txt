@@ -1,0 +1,16 @@
+GYROFLOW IMU LOG
+version	1.2
+id	Split4g
+orientation	xyZ
+note	development_test
+fwversion	V2.0.1
+vendor	Runcam
+videofilename	Split4g_0000.MP4
+lensprofile	Runcam_Split4g_2.7k60fps_16by9_2704x1520
+lens_info	wide
+frame_readout_time	15.13
+frame_readout_direction	0
+tscale	0.001
+gscale	0.000532632
+ascale	0.000488281						Fixed data							Fixed data
+t	rx	ry	rz	ax	ay	az	t[s]	rx[rad/s2]	ry[rad/s2]	rz[rad/s2]	ax[m/s2]	ay[m/s2]	az[m/s2]	t[s]	rx[rad/s]	ry[rad/s]	rz[rad/s]	ax[m/s]	ay[m/s]	az[m/s]
