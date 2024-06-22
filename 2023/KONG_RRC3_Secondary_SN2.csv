@@ -1,4 +1,4 @@
-Time,Altitude,Pressure,Velocity,Temperature,Events,Voltages
+Time [s],Altitude [ft],Pressure [mbar],Velocity [ft/s],Temperature [F],Events,Voltages [V]
 0.00,-7.047148E-05,861.60,0,101.12, -,8.245819
 0.05,-7.047148E-05,861.60,0,101.12, -,8.245819
 0.10,3.112198,861.50,2.952381,101.12, -,8.245819
