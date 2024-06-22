@@ -1,0 +1,30 @@
+# Post-Flight Standard Operating Procedure
+1. Load the RRC3's data using the mDACs software and dongle.
+2. Add notes about the flight.
+3. Save the flight file (`.rff`) format, named according to `<Rocket>_<Role>_SN<N>`
+4. Export the flight to CSV using Customary units using the same base name format
+5. Add the units in brackets to the CSV headings
+6. Upload both to the appropriate GitHub folder.
+
+Notes:
+- The `.rff` file format includes several summary statistics (pad time, pad temperature, etc.) and a notes field
+
+# Flight Logs
+## SN 1
+1. IREC 2023 launch vehicle *KONG*, June 2023. In-flight failure of the avionics bay, shot into the nose cone by apogee snatch force.
+2. IREC 2024 launch vehicle *OMEN*, June 2024. In-flight failure of the avionics bay, causes inconclusive.
+## SN 2
+1. IREC 2023 launch vehicle *KONG*, June 2023. In-flight failure of the avionics bay, shot into the nose cone by apogee snatch force.
+2. IREC 2024 launch vehicle *OMEN*, June 2024. In-flight failure of the avionics bay, causes inconclusive. Significant physical damage to top-mounted components.
+## SN 3
+1. L1 test flight, April 2024.
+2. IREC 2024 payload *Richie. 
+## SN 4
+1. IREC 2024 payload *Richie. 
+## SN 5
+No flights.
+## SN 6
+No flights.
+## SN 7
+No flights.
+
