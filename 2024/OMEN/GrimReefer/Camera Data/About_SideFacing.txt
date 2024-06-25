@@ -1,0 +1,16 @@
+GYROFLOW IMU LOG
+version,1.2
+id,Split4g
+orientation,xyZ
+note,development_test
+fwversion,V2.0.1
+vendor,Runcam
+videofilename,Split4g_0000.MP4
+lensprofile,Runcam_Split4g_2.7k60fps_16by9_2704x1520
+lens_info,wide
+frame_readout_time,15.13
+frame_readout_direction,0
+tscale,0.001
+gscale,0.00053263221
+ascale,0.00048828125
+t,rx,ry,rz,ax,ay,az
