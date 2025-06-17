@@ -1,0 +1,5 @@
+Note that we most likely did not log data during flight based on the behavior of the other 3 modules.
+Some of these graphed flights may be simulations that were ran and logged in the sensor module.
+I wrote a script that scans the dumped flash for data and tries to locate flights based on reading values that would be within the expected range.
+- Aaron
+

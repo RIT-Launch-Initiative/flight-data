@@ -1,0 +1,6 @@
+If you read the README in the Sensor folder, then note that Power Module only logged once a minute and not as fast as possible while it was in flight.
+You will notice around lines 40-45 that the timestamps reset twice. This most likely signifies that we power cycled twice. Based on the timestamps of
+the Featherweight GPS data and the timestamp of a photo I took of ground station when OTIS launched, and the fact that the second timestamp reset occurred
+3 minutes later (the expected time for the flight of the rocket), my leading thought is that we power cycled at boost and during landing which is concerning.
+
+- Aaron
