@@ -6,6 +6,11 @@ The same physical devices were used for all three flights.
 
 # File Formats
 
+## Openrocket
+
+`rocket.ork` is the openrocket file for this flight. Accuracy is up for debate as real masses were not measured day of.
+
+
 ## Featherweight
 
 CSV of data downloaded after the flight NOT the packets received by the ground station
@@ -14,6 +19,11 @@ CSV of data downloaded after the flight NOT the packets received by the ground s
 
 Data format from SRAD software. It was downloaded from the flight computer over serial and parsed using the `parse_capture.py` script in this directory.
 
+### Controller Configuration
+controller_configuration.json provides a description to the firmware for how it should run. This includes
+- Kalman Filter matrices
+- IMU orientation quaternions
+- Atmosphere model
 
 ### params.csv
 
@@ -71,9 +81,3 @@ singly stored data points that describe the environment of the flight: Which con
 
 This data was not completely filled for John's rocket due to The Incident. This is explained further in `Johns/README.md`
 
-
-# Products
-
-## Noise Data
-
-Before the first flight of the day, noise data was recorded to get background sensor noise of the rocket sitting still. It can be found under `Emmas/noise/controls_module`.

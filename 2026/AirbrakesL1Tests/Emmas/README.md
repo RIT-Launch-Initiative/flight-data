@@ -2,11 +2,9 @@
 
 L1 Rocket
 
-(picture here)
-
 Equipped with a controls_module+babyplane for airbrakes sensor, kalman filter, and gyro integration testing and a featherweight for "ground truth" measurements. 
 
-# Products
+# Data Products
 
 ## Controls Module Noise
 Before flight took noise data with the featherweight turned on in a field rather than in the SHED or in an apartment. 
