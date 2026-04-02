@@ -2,9 +2,13 @@
 
 Test flight of 3 L1s with a controls_module+babyplane combination for airbrakes sensor data, kalman filter tuning, and gyroscope orientation verification/
 
-The same physical devices were used for all three flights. 
+The same physical devices were used for all three flights.
 
 # File Formats
+
+## Engine File
+
+`AeroTech_HP-H195NT.eng` is the thrust curve file from [ThrustCurve.com](https://www.thrustcurve.org/motors/AeroTech/HP-H195NT/)
 
 ## Openrocket
 
