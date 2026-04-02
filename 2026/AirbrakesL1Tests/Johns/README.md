@@ -40,7 +40,7 @@ Imagine a shorted battery in a car. And then stop imagining because we didn't re
 15. Eat food so we have our wits about us
 16. Bend babyplane VBAT pin away from ground
 17. Attach 8V from power supply to VBAT on babyplane screw connector 
-18. Enable power supply and controls_module+babyplane stack immedietly appear to be overcurrenting. Further tests show it consuming 0.54 V. Power supply was set for 8.00 V but shows 8.14 V
+18. Enable power supply and controls_module+babyplane stack immedietly appear to be overcurrenting. Further tests show it consuming 0.54 A. Power supply was set for 8.00 V but shows 8.14 V
 19. Remove flight controls_module from flight babyplane
 20. Enable power to only babyplane and verify 3.3V regulator, 5V regulator, and VBAT are as expected with no module on
 21. Attach known good controls_module to flight babyplane and verify normal behavior and current draw (0.041 A)
@@ -71,13 +71,6 @@ Imagine a shorted battery in a car. And then stop imagining because we didn't re
 
 
 # Data Products
-
-## Controls Module Noise
-Before flight took noise data with the featherweight turned on in a field rather than in the SHED or in an apartment. 
-The noise is recorded like a flight so the code is doing the exact same thing, the rocket is just not moving. It can be loaded and parsed the same way as flight data
-
-![L1 Rocket Leaning against a red RAV4](images/noise_gathering.jpg)
-Noise data was recorded like so
 
 ## Control Module Flight
 
