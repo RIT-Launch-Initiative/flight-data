@@ -58,8 +58,12 @@ Imagine a shorted battery in a car. And then stop imagining because we didn't re
 33. Plug in USB to UART converter and board working as expected
 34. Successfully dump data from serial. Verify parameters, preboost data, some flight data followed by large amount of erase value (0xff)
 35. Plot data that is available. Signs point to event at snatch. By construction, after boost all data writing is done in a single loop so between the last value written and disaster is no more than 10ms
-
 ![Graph showing normal flight before ending abruptly at around the time of snatch](images/TheIncidentInFlight.png)
+
+36. Check all the sensors still work
+
+
+<img width="307" height="355" alt="image" src="https://github.com/user-attachments/assets/961660d6-ab0a-401a-bacf-2cfa6fd3a0ba" />
 
 
 ## Theories
