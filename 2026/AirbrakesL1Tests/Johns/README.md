@@ -81,11 +81,33 @@ Imagine a shorted battery in a car. And then stop imagining because we didn't re
 
 ## Theories
 
-- FOD
-- Snatch caused giant acceleration which made pins touch which made regulator do something which kills the w5500 and only the w5500
-- aliens?
-- vindictive enemy IREC teams
+### Theory 1: Capacitor free-wheeling
+Assumption: Pin was prebent and snatch force caused them to short for a little bit. 
+When the battery/ground shorted, the potential across the capacitor became a negative voltage, that was then shunted through the steering/ESD diodes inside of the chips.
+Consensus; while this is possible, the actual amount of power dissipated would be quite low. In addition, the W5500 actually seems to be the chip most likely to take the negative-going voltage, it is permitted to -0.5v compared to the -0.3 to 0.0 of most others.
 
+### Theory 2: Transformer short
+The transformers are heavy and full of wires, a shock impact could have shorted those, and taken out the W5500's media interface in the process.
+Consensus; unclear what a short between ethernet would do, probably not much since that's basically what a transformer is anyway. Cannot explain the entire 3.3v rail going down.
+
+### Theory 3: Generic FOD
+Impossible to prove, potentially a short between 2 non-ideal spots resulted in damage to the IC. 
+Consensus; one of the best theories due to the variability and unpredictability of when/how/if this'd happen, when stacked against the precedence of W5500 flights with no issues. Also lots of evidence of contamination on the boards.
+
+### Theory 4: MTBF Luck of the Draw
+This is just a chance encounter of the W5500 dying at a random unknown time like any other component of any other system. While it is rare and unlikely to happen on the average, we are subjecting the parts to extreme conditions and use them very commonly. So we are eventually likely to see a component failure. WizNET is also a relatively unknown/small company compared to a powerhouse like TI.
+Consensus; again impossible to prove, but very unlikely due to the number of W5500s that are operating for longer times around the world. 
+
+### Theory 5: Physical Impact Damage
+Damage to surrounding av bay may point to a mechanical impact with the W5500 directly or the area around it, leading to a failure. 
+Consensus: Unlikely, impossible to prove without IC dissection. Overmolded design of the IC makes this unlikely.
+
+### Theory 6: ESD strike
+While the W5500 is protected, it is still a likely candidate for ESD (both from the header and from direct handling).
+Consensus; Possible, due to ESD protection only existing on off-board connectors. Any contact with the board itself may have caused issues that manifested in flight.
+
+> My money is on a mix of 6/4/3, potentially with them causing each other (FOD led to increased chance of ESD, which pushed the chip towards the edge of a mean failure for instance). Overall consensus is this is an unlikely event that could potentially be mitigated in the future with safer handling, protective enclosures, and more robust ESD-safe designs.
+> - J.H.
 
 # Data Products
 
