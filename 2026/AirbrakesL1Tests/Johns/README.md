@@ -4,6 +4,19 @@ L1 Rocket
 
 Equipped with a controls_module+babyplane for airbrakes sensor, kalman filter, and gyro integration testing and a featherweight for "ground truth" measurements. 
 
+# Measurements
+
+| Section                   | Mass [g] |
+| ------------------------- | -------- |
+| Whole (w/ burnt motor)    | 721      |
+| Whole (w/o burnt motor)   | 637      |
+| Nosecone                  | 87       |
+| Payload Bay               | 164      |
+| Booster (w/ burnt motor)  | 459      |
+| Booster (w/o burnt motor) | 375      |
+| Motor Retainer            | 12       |
+
+
 # The Incident
 
 ## The beginning
