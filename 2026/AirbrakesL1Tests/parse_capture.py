@@ -24,13 +24,13 @@ DEND='----++++//[[( data end )]]\\\\++++----'
 
 md5sum_fmt = '16s' # 16 byte string
 param_fmt = 'IIffffIIIII'+md5sum_fmt+'ffffffffff'
-param_fields = ['magic', 'timstamp_of_boost_detect_ms', 'pre_boost_pressure','bias_x_dps', 'bias_y_dps', 'bias_z_dps', 'bootcount', 'lockout_ms', 'num_flight_packets', 'num_preboost_packets', 'num_gyro_bias_packets', 'md5', 'up_axis_q1', 'up_axis_q2', 'up_axis_q3', 'up_axis_q4', 'atmo0', 'atmo1', 'atmo2', "atmo3", "atmo4", "atmo5"]
+param_fields = ['magic', 'timstamp_of_boost_detect__ms', 'pre_boost_pressure__kpa','bias_x__dps', 'bias_y__dps', 'bias_z__dps', 'bootcount', 'lockout__ms', 'num_flight_packets', 'num_preboost_packets', 'num_gyro_bias_packets', 'md5', 'up_axis_q1', 'up_axis_q2', 'up_axis_q3', 'up_axis_q4', 'atmo0', 'atmo1', 'atmo2', "atmo3", "atmo4", "atmo5"]
 
 
 
 data_fmt = 'Iffffffffffffffffffffffff'
 data_size = struct.calcsize(data_fmt)
-data_fields = ['timestamp_ms', 'temp_c', 'pressure_kpa', 'accel_x_m_s2', 'accel_y_m_s2', 'accel_z_m_s2', 'gyro_x_dps', 'gyro_y_dps', 'gyro_z_dps','e_alt_m', 'e_vel_m_s', 'e_acc_m_s2', 'e_bias', 'innovation0', 'innovation1', 'r1c1', 'r1c2', 'r1c3', 'r2c1', 'r2c2', 'r2c3', 'r3c1', 'r3c2', 'r3c3', 'effort']
+data_fields = ['timestamp__ms', 'temp__c', 'pressure__kpa', 'accel_x__m_s2', 'accel_y__m_s2', 'accel_z__m_s2', 'gyro_x_dps', 'gyro_y__dps', 'gyro_z__dps','e_alt__m', 'e_vel_m_s', 'e_acc__m_s2', 'e_bias', 'innovation0', 'innovation1', 'r1c1', 'r1c2', 'r1c3', 'r2c1', 'r2c2', 'r2c3', 'r3c1', 'r3c2', 'r3c3', 'effort']
 
 # if len(param_fmt) != len(param_fields):
 # 	print("Param packet and labels mismatch", file=sys.stderr)
