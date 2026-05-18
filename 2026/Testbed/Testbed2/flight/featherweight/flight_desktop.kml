@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+	<Document id="1">
+		<Style id="2">
+			<LineStyle id="9">
+				<color>FF61A692</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle id="16">
+				<color>FF61A692</color>
+				<colorMode>normal</colorMode>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id="3">
+			<LineStyle id="10">
+				<color>FFED8A2F</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle id="17">
+				<color>FFED8A2F</color>
+				<colorMode>normal</colorMode>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id="4">
+			<LineStyle id="11">
+				<color>FF113065</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle id="18">
+				<color>FF113065</color>
+				<colorMode>normal</colorMode>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id="5">
+			<LineStyle id="12">
+				<color>FF6A7180</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle id="19">
+				<color>FF6A7180</color>
+				<colorMode>normal</colorMode>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id="6">
+			<LineStyle id="13">
+				<color>FF62A5D4</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle id="20">
+				<color>FF62A5D4</color>
+				<colorMode>normal</colorMode>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id="7">
+			<LineStyle id="14">
+				<color>FFD65C5C</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle id="21">
+				<color>FFD65C5C</color>
+				<colorMode>normal</colorMode>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id="8">
+			<LineStyle id="15">
+				<color>FF2F80ED</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle id="22">
+				<color>FF2F80ED</color>
+				<colorMode>normal</colorMode>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<open>1</open>
+		<Placemark id="40">
+			<name>fw2kml - Flight 0</name>
+			<styleUrl>#2</styleUrl>
+			<gx:Track id="60">
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<when>2026-05-16T22:10:38.000Z</when>
+				<when>2026-05-16T22:10:38.199Z</when>
+				<when>2026-05-16T22:10:38.299Z</when>
+				<when>2026-05-16T22:10:38.399Z</when>
+				<when>2026-05-16T22:10:38.499Z</when>
+				<when>2026-05-16T22:10:38.599Z</when>
+				<when>2026-05-16T22:10:38.699Z</when>
+				<when>2026-05-16T22:10:38.799Z</when>
+				<when>2026-05-16T22:10:38.899Z</when>
+				<when>2026-05-16T22:10:39.000Z</when>
+				<when>2026-05-16T22:10:39.199Z</when>
+				<when>2026-05-16T22:10:39.299Z</when>
+				<when>2026-05-16T22:10:39.399Z</when>
+				<when>2026-05-16T22:10:39.499Z</when>
+				<when>2026-05-16T22:10:39.599Z</when>
+				<when>2026-05-16T22:10:39.699Z</when>
+				<when>2026-05-16T22:10:39.799Z</when>
+				<when>2026-05-16T22:10:39.899Z</when>
+				<when>2026-05-16T22:10:40.000Z</when>
+				<when>2026-05-16T22:10:40.199Z</when>
+				<when>2026-05-16T22:10:40.299Z</when>
+				<when>2026-05-16T22:10:40.399Z</when>
+				<when>2026-05-16T22:10:40.499Z</when>
+				<when>2026-05-16T22:10:40.599Z</when>
+				<when>2026-05-16T22:10:40.699Z</when>
+				<when>2026-05-16T22:10:40.799Z</when>
+				<when>2026-05-16T22:10:40.899Z</when>
+				<when>2026-05-16T22:10:41.000Z</when>
+				<when>2026-05-16T22:10:41.199Z</when>
+				<when>2026-05-16T22:10:41.299Z</when>
+				<when>2026-05-16T22:10:41.399Z</when>
+				<when>2026-05-16T22:10:41.499Z</when>
+				<when>2026-05-16T22:10:41.599Z</when>
+				<when>2026-05-16T22:10:41.699Z</when>
+				<when>2026-05-16T22:10:41.799Z</when>
+				<when>2026-05-16T22:10:42.000Z</when>
+				<when>2026-05-16T22:10:42.199Z</when>
+				<when>2026-05-16T22:10:42.299Z</when>
+				<when>2026-05-16T22:10:42.399Z</when>
+				<when>2026-05-16T22:10:42.599Z</when>
+				<when>2026-05-16T22:10:42.799Z</when>
+				<when>2026-05-16T22:10:42.899Z</when>
+				<when>2026-05-16T22:10:43.299Z</when>
+				<when>2026-05-16T22:10:43.399Z</when>
+				<when>2026-05-16T22:10:43.499Z</when>
+				<when>2026-05-16T22:10:43.599Z</when>
+				<when>2026-05-16T22:10:43.699Z</when>
+				<when>2026-05-16T22:10:43.799Z</when>
+				<when>2026-05-16T22:10:43.899Z</when>
+				<when>2026-05-16T22:10:44.000Z</when>
+				<when>2026-05-16T22:10:44.199Z</when>
+				<when>2026-05-16T22:10:44.299Z</when>
+				<when>2026-05-16T22:10:44.399Z</when>
+				<when>2026-05-16T22:10:44.499Z</when>
+				<when>2026-05-16T22:10:44.599Z</when>
+				<when>2026-05-16T22:10:44.699Z</when>
+				<when>2026-05-16T22:10:44.799Z</when>
+				<when>2026-05-16T22:10:44.899Z</when>
+				<when>2026-05-16T22:10:45.000Z</when>
+				<when>2026-05-16T22:10:45.199Z</when>
+				<when>2026-05-16T22:10:45.299Z</when>
+				<when>2026-05-16T22:10:45.399Z</when>
+				<when>2026-05-16T22:10:45.499Z</when>
+				<when>2026-05-16T22:10:45.599Z</when>
+				<when>2026-05-16T22:10:45.699Z</when>
+				<when>2026-05-16T22:10:45.799Z</when>
+				<when>2026-05-16T22:10:45.899Z</when>
+				<when>2026-05-16T22:10:46.000Z</when>
+				<when>2026-05-16T22:10:46.199Z</when>
+				<when>2026-05-16T22:10:46.299Z</when>
+				<when>2026-05-16T22:10:46.399Z</when>
+				<when>2026-05-16T22:10:46.499Z</when>
+				<when>2026-05-16T22:10:46.599Z</when>
+				<when>2026-05-16T22:10:46.799Z</when>
+				<when>2026-05-16T22:10:46.899Z</when>
+				<when>2026-05-16T22:10:47.000Z</when>
+				<when>2026-05-16T22:10:47.199Z</when>
+				<when>2026-05-16T22:10:47.299Z</when>
+				<when>2026-05-16T22:10:47.399Z</when>
+				<when>2026-05-16T22:10:47.499Z</when>
+				<when>2026-05-16T22:10:47.599Z</when>
+				<when>2026-05-16T22:10:47.699Z</when>
+				<when>2026-05-16T22:10:47.799Z</when>
+				<when>2026-05-16T22:10:47.899Z</when>
+				<when>2026-05-16T22:10:48.000Z</when>
+				<when>2026-05-16T22:10:48.199Z</when>
+				<when>2026-05-16T22:10:48.299Z</when>
+				<when>2026-05-16T22:10:48.399Z</when>
+				<when>2026-05-16T22:10:48.499Z</when>
+				<when>2026-05-16T22:10:48.599Z</when>
+				<when>2026-05-16T22:10:48.699Z</when>
+				<when>2026-05-16T22:10:48.799Z</when>
+				<when>2026-05-16T22:10:48.899Z</when>
+				<when>2026-05-16T22:10:49.000Z</when>
+				<when>2026-05-16T22:10:49.199Z</when>
+				<when>2026-05-16T22:10:49.299Z</when>
+				<when>2026-05-16T22:10:49.399Z</when>
+				<when>2026-05-16T22:10:49.499Z</when>
+				<when>2026-05-16T22:10:49.699Z</when>
+				<when>2026-05-16T22:10:49.899Z</when>
+				<when>2026-05-16T22:10:50.000Z</when>
+				<when>2026-05-16T22:10:50.199Z</when>
+				<when>2026-05-16T22:10:50.299Z</when>
+				<when>2026-05-16T22:10:50.399Z</when>
+				<when>2026-05-16T22:10:50.499Z</when>
+				<when>2026-05-16T22:10:50.599Z</when>
+				<when>2026-05-16T22:10:50.699Z</when>
+				<when>2026-05-16T22:10:50.799Z</when>
+				<when>2026-05-16T22:10:50.899Z</when>
+				<when>2026-05-16T22:10:51.000Z</when>
+				<when>2026-05-16T22:10:51.199Z</when>
+				<when>2026-05-16T22:10:51.399Z</when>
+				<when>2026-05-16T22:10:51.499Z</when>
+				<when>2026-05-16T22:10:51.599Z</when>
+				<when>2026-05-16T22:10:51.699Z</when>
+				<when>2026-05-16T22:10:51.799Z</when>
+				<when>2026-05-16T22:10:51.899Z</when>
+				<when>2026-05-16T22:10:52.000Z</when>
+				<when>2026-05-16T22:10:52.199Z</when>
+				<when>2026-05-16T22:10:52.299Z</when>
+				<when>2026-05-16T22:10:52.399Z</when>
+				<when>2026-05-16T22:10:52.499Z</when>
+				<when>2026-05-16T22:10:52.599Z</when>
+				<when>2026-05-16T22:10:52.699Z</when>
+				<when>2026-05-16T22:10:52.799Z</when>
+				<when>2026-05-16T22:10:52.899Z</when>
+				<when>2026-05-16T22:10:53.000Z</when>
+				<when>2026-05-16T22:10:53.199Z</when>
+				<when>2026-05-16T22:10:53.299Z</when>
+				<when>2026-05-16T22:10:53.399Z</when>
+				<when>2026-05-16T22:10:53.499Z</when>
+				<when>2026-05-16T22:10:53.599Z</when>
+				<when>2026-05-16T22:10:53.699Z</when>
+				<when>2026-05-16T22:10:53.799Z</when>
+				<when>2026-05-16T22:10:53.899Z</when>
+				<when>2026-05-16T22:10:54.000Z</when>
+				<when>2026-05-16T22:10:54.199Z</when>
+				<when>2026-05-16T22:10:54.399Z</when>
+				<when>2026-05-16T22:10:54.599Z</when>
+				<when>2026-05-16T22:10:54.899Z</when>
+				<when>2026-05-16T22:10:55.000Z</when>
+				<when>2026-05-16T22:10:55.199Z</when>
+				<when>2026-05-16T22:10:55.399Z</when>
+				<when>2026-05-16T22:10:55.599Z</when>
+				<when>2026-05-16T22:10:55.799Z</when>
+				<when>2026-05-16T22:10:55.899Z</when>
+				<when>2026-05-16T22:10:56.000Z</when>
+				<when>2026-05-16T22:10:56.199Z</when>
+				<when>2026-05-16T22:10:56.299Z</when>
+				<when>2026-05-16T22:10:56.399Z</when>
+				<when>2026-05-16T22:10:56.599Z</when>
+				<when>2026-05-16T22:10:56.799Z</when>
+				<when>2026-05-16T22:10:56.899Z</when>
+				<when>2026-05-16T22:10:57.099Z</when>
+				<when>2026-05-16T22:10:57.299Z</when>
+				<when>2026-05-16T22:10:57.399Z</when>
+				<when>2026-05-16T22:10:57.599Z</when>
+				<when>2026-05-16T22:10:57.699Z</when>
+				<when>2026-05-16T22:10:57.799Z</when>
+				<when>2026-05-16T22:10:57.899Z</when>
+				<when>2026-05-16T22:10:58.000Z</when>
+				<when>2026-05-16T22:10:58.199Z</when>
+				<when>2026-05-16T22:10:58.299Z</when>
+				<when>2026-05-16T22:10:58.399Z</when>
+				<when>2026-05-16T22:10:58.499Z</when>
+				<when>2026-05-16T22:10:58.599Z</when>
+				<when>2026-05-16T22:10:58.699Z</when>
+				<when>2026-05-16T22:10:58.799Z</when>
+				<when>2026-05-16T22:10:58.899Z</when>
+				<when>2026-05-16T22:10:59.000Z</when>
+				<when>2026-05-16T22:10:59.199Z</when>
+				<when>2026-05-16T22:10:59.299Z</when>
+				<when>2026-05-16T22:10:59.499Z</when>
+				<when>2026-05-16T22:10:59.599Z</when>
+				<when>2026-05-16T22:10:59.799Z</when>
+				<when>2026-05-16T22:10:59.899Z</when>
+				<when>2026-05-16T22:11:00.000Z</when>
+				<when>2026-05-16T22:11:00.199Z</when>
+				<when>2026-05-16T22:11:00.299Z</when>
+				<when>2026-05-16T22:11:00.399Z</when>
+				<when>2026-05-16T22:11:00.499Z</when>
+				<when>2026-05-16T22:11:00.599Z</when>
+				<when>2026-05-16T22:11:00.699Z</when>
+				<when>2026-05-16T22:11:00.799Z</when>
+				<when>2026-05-16T22:11:00.899Z</when>
+				<when>2026-05-16T22:11:01.000Z</when>
+				<when>2026-05-16T22:11:01.199Z</when>
+				<when>2026-05-16T22:11:01.299Z</when>
+				<when>2026-05-16T22:11:01.399Z</when>
+				<when>2026-05-16T22:11:01.499Z</when>
+				<when>2026-05-16T22:11:01.599Z</when>
+				<when>2026-05-16T22:11:01.699Z</when>
+				<when>2026-05-16T22:11:01.799Z</when>
+				<when>2026-05-16T22:11:01.899Z</when>
+				<when>2026-05-16T22:11:02.000Z</when>
+				<when>2026-05-16T22:11:03.000Z</when>
+				<when>2026-05-16T22:11:04.000Z</when>
+				<when>2026-05-16T22:11:05.000Z</when>
+				<when>2026-05-16T22:11:06.000Z</when>
+				<when>2026-05-16T22:11:07.000Z</when>
+				<when>2026-05-16T22:11:08.000Z</when>
+				<when>2026-05-16T22:11:09.000Z</when>
+				<when>2026-05-16T22:11:10.000Z</when>
+				<when>2026-05-16T22:11:11.000Z</when>
+				<when>2026-05-16T22:11:12.000Z</when>
+				<when>2026-05-16T22:11:13.000Z</when>
+				<when>2026-05-16T22:11:14.000Z</when>
+				<when>2026-05-16T22:11:15.000Z</when>
+				<when>2026-05-16T22:11:16.000Z</when>
+				<when>2026-05-16T22:11:17.000Z</when>
+				<when>2026-05-16T22:11:18.000Z</when>
+				<when>2026-05-16T22:11:19.000Z</when>
+				<when>2026-05-16T22:11:20.000Z</when>
+				<when>2026-05-16T22:11:21.000Z</when>
+				<when>2026-05-16T22:11:22.000Z</when>
+				<when>2026-05-16T22:11:23.000Z</when>
+				<when>2026-05-16T22:11:24.000Z</when>
+				<when>2026-05-16T22:11:25.000Z</when>
+				<when>2026-05-16T22:11:26.000Z</when>
+				<when>2026-05-16T22:11:27.000Z</when>
+				<when>2026-05-16T22:11:28.000Z</when>
+				<when>2026-05-16T22:11:29.000Z</when>
+				<when>2026-05-16T22:11:30.000Z</when>
+				<when>2026-05-16T22:11:31.000Z</when>
+				<when>2026-05-16T22:11:32.000Z</when>
+				<when>2026-05-16T22:11:33.000Z</when>
+				<when>2026-05-16T22:11:34.000Z</when>
+				<when>2026-05-16T22:11:35.000Z</when>
+				<when>2026-05-16T22:11:36.000Z</when>
+				<when>2026-05-16T22:11:37.000Z</when>
+				<when>2026-05-16T22:11:38.000Z</when>
+				<when>2026-05-16T22:11:39.000Z</when>
+				<when>2026-05-16T22:11:40.000Z</when>
+				<when>2026-05-16T22:11:41.000Z</when>
+				<when>2026-05-16T22:11:42.000Z</when>
+				<when>2026-05-16T22:11:43.000Z</when>
+				<when>2026-05-16T22:11:44.000Z</when>
+				<when>2026-05-16T22:11:45.000Z</when>
+				<when>2026-05-16T22:11:46.000Z</when>
+				<when>2026-05-16T22:11:47.000Z</when>
+				<when>2026-05-16T22:11:48.000Z</when>
+				<when>2026-05-16T22:11:49.000Z</when>
+				<when>2026-05-16T22:11:51.000Z</when>
+				<when>2026-05-16T22:11:52.000Z</when>
+				<when>2026-05-16T22:11:53.000Z</when>
+				<when>2026-05-16T22:11:54.000Z</when>
+				<when>2026-05-16T22:11:55.000Z</when>
+				<when>2026-05-16T22:11:56.000Z</when>
+				<when>2026-05-16T22:11:57.000Z</when>
+				<when>2026-05-16T22:11:57.000Z</when>
+				<gx:coord>-77.19376373 42.70439148 272.2910</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2910</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2870</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2800</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2710</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2670</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2560</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2490</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2410</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2370</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2340</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2270</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2190</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2090</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.2070</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1970</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1870</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1800</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1720</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1700</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1600</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1540</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1530</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1340</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1290</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1280</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1190</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1160</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1110</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1080</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.1020</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.0970</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.0930</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.0890</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.0850</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.0860</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 272.8980</gx:coord>
+				<gx:coord>-77.19376373 42.70439148 274.4600</gx:coord>
+				<gx:coord>-77.19375610 42.70439148 277.3410</gx:coord>
+				<gx:coord>-77.19374847 42.70439148 284.9990</gx:coord>
+				<gx:coord>-77.19373322 42.70438385 296.5150</gx:coord>
+				<gx:coord>-77.19373322 42.70437622 304.1110</gx:coord>
+				<gx:coord>-77.19372559 42.70433044 340.6570</gx:coord>
+				<gx:coord>-77.19373322 42.70431137 352.1160</gx:coord>
+				<gx:coord>-77.19373322 42.70429611 363.6430</gx:coord>
+				<gx:coord>-77.19373322 42.70427322 375.7770</gx:coord>
+				<gx:coord>-77.19373322 42.70425034 388.7660</gx:coord>
+				<gx:coord>-77.19374084 42.70422745 402.5660</gx:coord>
+				<gx:coord>-77.19374847 42.70420074 416.9300</gx:coord>
+				<gx:coord>-77.19374847 42.70417023 431.6570</gx:coord>
+				<gx:coord>-77.19375610 42.70410919 462.0620</gx:coord>
+				<gx:coord>-77.19376373 42.70407486 477.7970</gx:coord>
+				<gx:coord>-77.19377136 42.70404053 493.6730</gx:coord>
+				<gx:coord>-77.19377136 42.70400620 509.3990</gx:coord>
+				<gx:coord>-77.19377899 42.70397186 525.0920</gx:coord>
+				<gx:coord>-77.19378662 42.70393753 540.6590</gx:coord>
+				<gx:coord>-77.19378662 42.70390320 556.0550</gx:coord>
+				<gx:coord>-77.19379425 42.70386887 571.4600</gx:coord>
+				<gx:coord>-77.19380188 42.70383453 586.7050</gx:coord>
+				<gx:coord>-77.19380951 42.70376587 616.4390</gx:coord>
+				<gx:coord>-77.19380951 42.70373154 631.2680</gx:coord>
+				<gx:coord>-77.19381714 42.70370102 645.8630</gx:coord>
+				<gx:coord>-77.19381714 42.70366669 660.1590</gx:coord>
+				<gx:coord>-77.19382477 42.70363235 674.2940</gx:coord>
+				<gx:coord>-77.19382477 42.70359802 688.0930</gx:coord>
+				<gx:coord>-77.19383240 42.70356750 701.8910</gx:coord>
+				<gx:coord>-77.19383240 42.70353317 715.4940</gx:coord>
+				<gx:coord>-77.19384003 42.70350266 728.8840</gx:coord>
+				<gx:coord>-77.19384003 42.70343781 754.9620</gx:coord>
+				<gx:coord>-77.19384766 42.70340729 767.7690</gx:coord>
+				<gx:coord>-77.19384766 42.70337296 780.4781</gx:coord>
+				<gx:coord>-77.19385529 42.70334244 793.0430</gx:coord>
+				<gx:coord>-77.19385529 42.70331192 805.4880</gx:coord>
+				<gx:coord>-77.19386292 42.70324707 829.9851</gx:coord>
+				<gx:coord>-77.19386292 42.70321655 841.9081</gx:coord>
+				<gx:coord>-77.19386292 42.70318604 853.8610</gx:coord>
+				<gx:coord>-77.19387054 42.70312881 877.1800</gx:coord>
+				<gx:coord>-77.19387054 42.70309830 888.7010</gx:coord>
+				<gx:coord>-77.19387817 42.70306778 900.0830</gx:coord>
+				<gx:coord>-77.19387817 42.70303726 911.2220</gx:coord>
+				<gx:coord>-77.19387817 42.70300674 922.3270</gx:coord>
+				<gx:coord>-77.19388580 42.70297623 933.2830</gx:coord>
+				<gx:coord>-77.19388580 42.70294952 944.1130</gx:coord>
+				<gx:coord>-77.19389343 42.70291901 954.7950</gx:coord>
+				<gx:coord>-77.19389343 42.70289230 965.3240</gx:coord>
+				<gx:coord>-77.19390106 42.70283508 985.9051</gx:coord>
+				<gx:coord>-77.19390106 42.70280457 996.0220</gx:coord>
+				<gx:coord>-77.19390869 42.70277786 1006.0051</gx:coord>
+				<gx:coord>-77.19390869 42.70275116 1015.8791</gx:coord>
+				<gx:coord>-77.19390869 42.70272064 1025.6290</gx:coord>
+				<gx:coord>-77.19391632 42.70269394 1035.2580</gx:coord>
+				<gx:coord>-77.19391632 42.70266724 1044.7661</gx:coord>
+				<gx:coord>-77.19392395 42.70263672 1054.1521</gx:coord>
+				<gx:coord>-77.19392395 42.70261002 1063.4011</gx:coord>
+				<gx:coord>-77.19393158 42.70255280 1081.4590</gx:coord>
+				<gx:coord>-77.19393158 42.70252609 1090.3401</gx:coord>
+				<gx:coord>-77.19393921 42.70249939 1099.0880</gx:coord>
+				<gx:coord>-77.19393921 42.70247269 1107.7100</gx:coord>
+				<gx:coord>-77.19394684 42.70241928 1124.5600</gx:coord>
+				<gx:coord>-77.19395447 42.70236206 1140.9490</gx:coord>
+				<gx:coord>-77.19395447 42.70233536 1149.0040</gx:coord>
+				<gx:coord>-77.19396210 42.70228195 1164.6870</gx:coord>
+				<gx:coord>-77.19396210 42.70225525 1172.3680</gx:coord>
+				<gx:coord>-77.19396973 42.70222855 1179.9130</gx:coord>
+				<gx:coord>-77.19396973 42.70220184 1187.3451</gx:coord>
+				<gx:coord>-77.19396973 42.70217514 1194.6670</gx:coord>
+				<gx:coord>-77.19397736 42.70214844 1201.8830</gx:coord>
+				<gx:coord>-77.19397736 42.70212555 1209.0060</gx:coord>
+				<gx:coord>-77.19398499 42.70209885 1215.9960</gx:coord>
+				<gx:coord>-77.19398499 42.70207214 1222.8860</gx:coord>
+				<gx:coord>-77.19399261 42.70201874 1236.2830</gx:coord>
+				<gx:coord>-77.19399261 42.70196533 1249.2210</gx:coord>
+				<gx:coord>-77.19400024 42.70194244 1255.5450</gx:coord>
+				<gx:coord>-77.19400024 42.70191574 1261.7450</gx:coord>
+				<gx:coord>-77.19400024 42.70188904 1267.8570</gx:coord>
+				<gx:coord>-77.19400787 42.70186234 1273.8500</gx:coord>
+				<gx:coord>-77.19400787 42.70183945 1279.7290</gx:coord>
+				<gx:coord>-77.19400787 42.70181274 1285.4970</gx:coord>
+				<gx:coord>-77.19401550 42.70176315 1296.7091</gx:coord>
+				<gx:coord>-77.19401550 42.70173645 1302.1531</gx:coord>
+				<gx:coord>-77.19402313 42.70171356 1307.4941</gx:coord>
+				<gx:coord>-77.19402313 42.70168686 1312.7230</gx:coord>
+				<gx:coord>-77.19402313 42.70166016 1317.8561</gx:coord>
+				<gx:coord>-77.19403076 42.70163727 1322.8860</gx:coord>
+				<gx:coord>-77.19403076 42.70161057 1327.8191</gx:coord>
+				<gx:coord>-77.19403076 42.70158768 1332.6280</gx:coord>
+				<gx:coord>-77.19403839 42.70156097 1337.3320</gx:coord>
+				<gx:coord>-77.19403839 42.70151138 1346.4241</gx:coord>
+				<gx:coord>-77.19403839 42.70148849 1350.8281</gx:coord>
+				<gx:coord>-77.19404602 42.70146179 1355.1210</gx:coord>
+				<gx:coord>-77.19404602 42.70143890 1359.3111</gx:coord>
+				<gx:coord>-77.19404602 42.70141220 1363.3990</gx:coord>
+				<gx:coord>-77.19405365 42.70138931 1367.3850</gx:coord>
+				<gx:coord>-77.19405365 42.70136261 1371.2641</gx:coord>
+				<gx:coord>-77.19405365 42.70133972 1375.0390</gx:coord>
+				<gx:coord>-77.19405365 42.70131683 1378.7110</gx:coord>
+				<gx:coord>-77.19406128 42.70126724 1385.7570</gx:coord>
+				<gx:coord>-77.19406128 42.70121765 1392.3850</gx:coord>
+				<gx:coord>-77.19406891 42.70116806 1398.6190</gx:coord>
+				<gx:coord>-77.19407654 42.70109558 1407.2470</gx:coord>
+				<gx:coord>-77.19407654 42.70107269 1409.9240</gx:coord>
+				<gx:coord>-77.19408417 42.70102692 1414.9550</gx:coord>
+				<gx:coord>-77.19408417 42.70097733 1419.5770</gx:coord>
+				<gx:coord>-77.19409180 42.70093155 1423.8091</gx:coord>
+				<gx:coord>-77.19409180 42.70088196 1427.6441</gx:coord>
+				<gx:coord>-77.19409943 42.70085907 1429.4160</gx:coord>
+				<gx:coord>-77.19409943 42.70083618 1431.0960</gx:coord>
+				<gx:coord>-77.19409943 42.70078659 1434.1581</gx:coord>
+				<gx:coord>-77.19410706 42.70076370 1435.5480</gx:coord>
+				<gx:coord>-77.19410706 42.70074081 1436.8381</gx:coord>
+				<gx:coord>-77.19410706 42.70069504 1439.1010</gx:coord>
+				<gx:coord>-77.19411469 42.70064926 1440.9861</gx:coord>
+				<gx:coord>-77.19411469 42.70062256 1441.7911</gx:coord>
+				<gx:coord>-77.19412231 42.70057678 1443.1021</gx:coord>
+				<gx:coord>-77.19412231 42.70053101 1444.0300</gx:coord>
+				<gx:coord>-77.19412231 42.70050812 1444.3530</gx:coord>
+				<gx:coord>-77.19412994 42.70046234 1444.7030</gx:coord>
+				<gx:coord>-77.19412994 42.70043945 1444.7300</gx:coord>
+				<gx:coord>-77.19412994 42.70041656 1444.6651</gx:coord>
+				<gx:coord>-77.19413757 42.70039368 1444.5041</gx:coord>
+				<gx:coord>-77.19413757 42.70037079 1444.2440</gx:coord>
+				<gx:coord>-77.19413757 42.70032501 1443.4181</gx:coord>
+				<gx:coord>-77.19414520 42.70030212 1442.8650</gx:coord>
+				<gx:coord>-77.19414520 42.70027924 1442.2130</gx:coord>
+				<gx:coord>-77.19414520 42.70025635 1441.4650</gx:coord>
+				<gx:coord>-77.19414520 42.70023346 1440.6241</gx:coord>
+				<gx:coord>-77.19415283 42.70021057 1439.6810</gx:coord>
+				<gx:coord>-77.19415283 42.70018768 1438.6380</gx:coord>
+				<gx:coord>-77.19415283 42.70016479 1437.5090</gx:coord>
+				<gx:coord>-77.19415283 42.70014191 1436.2791</gx:coord>
+				<gx:coord>-77.19416046 42.70009613 1433.5341</gx:coord>
+				<gx:coord>-77.19416046 42.70007324 1432.0071</gx:coord>
+				<gx:coord>-77.19416809 42.70002747 1428.6790</gx:coord>
+				<gx:coord>-77.19416809 42.70000839 1426.8710</gx:coord>
+				<gx:coord>-77.19416809 42.69996262 1422.9420</gx:coord>
+				<gx:coord>-77.19417572 42.69993591 1420.7640</gx:coord>
+				<gx:coord>-77.19417572 42.69991302 1418.3591</gx:coord>
+				<gx:coord>-77.19418335 42.69985962 1413.1320</gx:coord>
+				<gx:coord>-77.19418335 42.69982910 1410.3160</gx:coord>
+				<gx:coord>-77.19419098 42.69980240 1407.4581</gx:coord>
+				<gx:coord>-77.19419098 42.69977951 1404.6311</gx:coord>
+				<gx:coord>-77.19419098 42.69975281 1401.7200</gx:coord>
+				<gx:coord>-77.19419861 42.69972992 1398.7910</gx:coord>
+				<gx:coord>-77.19419861 42.69970703 1395.8291</gx:coord>
+				<gx:coord>-77.19419098 42.69968796 1392.9050</gx:coord>
+				<gx:coord>-77.19419098 42.69966888 1390.0071</gx:coord>
+				<gx:coord>-77.19417572 42.69963837 1384.0420</gx:coord>
+				<gx:coord>-77.19416809 42.69962311 1381.0010</gx:coord>
+				<gx:coord>-77.19416046 42.69961166 1378.0081</gx:coord>
+				<gx:coord>-77.19416046 42.69960403 1375.1710</gx:coord>
+				<gx:coord>-77.19415283 42.69959259 1372.4830</gx:coord>
+				<gx:coord>-77.19415283 42.69958496 1369.8751</gx:coord>
+				<gx:coord>-77.19414520 42.69957352 1367.1651</gx:coord>
+				<gx:coord>-77.19413757 42.69956589 1364.3531</gx:coord>
+				<gx:coord>-77.19412994 42.69955826 1361.5331</gx:coord>
+				<gx:coord>-77.19406128 42.69949341 1333.8390</gx:coord>
+				<gx:coord>-77.19402313 42.69946289 1304.4531</gx:coord>
+				<gx:coord>-77.19396973 42.69944763 1274.9150</gx:coord>
+				<gx:coord>-77.19392395 42.69943619 1248.5940</gx:coord>
+				<gx:coord>-77.19387817 42.69945908 1222.2531</gx:coord>
+				<gx:coord>-77.19380951 42.69950104 1196.2511</gx:coord>
+				<gx:coord>-77.19373322 42.69954681 1170.9350</gx:coord>
+				<gx:coord>-77.19368744 42.69959641 1147.0440</gx:coord>
+				<gx:coord>-77.19365692 42.69966507 1121.1950</gx:coord>
+				<gx:coord>-77.19361877 42.69974136 1093.3201</gx:coord>
+				<gx:coord>-77.19355011 42.69981384 1065.4861</gx:coord>
+				<gx:coord>-77.19344330 42.69989395 1038.2430</gx:coord>
+				<gx:coord>-77.19334412 42.69997787 1010.9630</gx:coord>
+				<gx:coord>-77.19326019 42.70007324 984.9780</gx:coord>
+				<gx:coord>-77.19319153 42.70016861 960.5771</gx:coord>
+				<gx:coord>-77.19311523 42.70025253 937.5501</gx:coord>
+				<gx:coord>-77.19303894 42.70035553 913.9491</gx:coord>
+				<gx:coord>-77.19300842 42.70046234 888.6460</gx:coord>
+				<gx:coord>-77.19300079 42.70057297 862.3880</gx:coord>
+				<gx:coord>-77.19301605 42.70065689 834.0610</gx:coord>
+				<gx:coord>-77.19303894 42.70072937 807.1850</gx:coord>
+				<gx:coord>-77.19303131 42.70079803 781.8160</gx:coord>
+				<gx:coord>-77.19301605 42.70086288 757.1641</gx:coord>
+				<gx:coord>-77.19297028 42.70093536 731.5780</gx:coord>
+				<gx:coord>-77.19290161 42.70101166 704.8570</gx:coord>
+				<gx:coord>-77.19283295 42.70108414 678.9930</gx:coord>
+				<gx:coord>-77.19278717 42.70115662 653.4120</gx:coord>
+				<gx:coord>-77.19275665 42.70123291 629.1740</gx:coord>
+				<gx:coord>-77.19272614 42.70130539 605.4370</gx:coord>
+				<gx:coord>-77.19268036 42.70137405 581.7900</gx:coord>
+				<gx:coord>-77.19265747 42.70141983 558.7430</gx:coord>
+				<gx:coord>-77.19262695 42.70148468 533.7240</gx:coord>
+				<gx:coord>-77.19261169 42.70153046 508.2380</gx:coord>
+				<gx:coord>-77.19257355 42.70154190 484.0470</gx:coord>
+				<gx:coord>-77.19252777 42.70154190 458.0820</gx:coord>
+				<gx:coord>-77.19244385 42.70154572 430.7570</gx:coord>
+				<gx:coord>-77.19234467 42.70158386 404.4250</gx:coord>
+				<gx:coord>-77.19229126 42.70159149 382.5120</gx:coord>
+				<gx:coord>-77.19225311 42.70159912 370.3900</gx:coord>
+				<gx:coord>-77.19222260 42.70168304 357.8490</gx:coord>
+				<gx:coord>-77.19218445 42.70168304 348.5470</gx:coord>
+				<gx:coord>-77.19216156 42.70170212 339.3140</gx:coord>
+				<gx:coord>-77.19216156 42.70170975 330.3600</gx:coord>
+				<gx:coord>-77.19213867 42.70173645 322.5700</gx:coord>
+				<gx:coord>-77.19213104 42.70175171 313.7440</gx:coord>
+				<gx:coord>-77.19210815 42.70178604 304.9560</gx:coord>
+				<gx:coord>-77.19210815 42.70180893 295.6270</gx:coord>
+				<gx:coord>-77.19207764 42.70184326 279.5820</gx:coord>
+				<gx:coord>-77.19207001 42.70185089 274.0470</gx:coord>
+				<gx:coord>-77.19206238 42.70185089 273.3800</gx:coord>
+				<gx:coord>-77.19207001 42.70185089 272.8710</gx:coord>
+				<gx:coord>-77.19207001 42.70185089 272.3930</gx:coord>
+				<gx:coord>-77.19207001 42.70185471 272.0280</gx:coord>
+				<gx:coord>-77.19207001 42.70185471 271.6580</gx:coord>
+				<gx:coord>-77.19207001 42.70185089 271.6580</gx:coord>
+			</gx:Track>
+		</Placemark>
+		<gx:Tour>
+			<name>Play Flight Tour</name>
+			<gx:Playlist>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19376373</longitude>
+						<latitude>42.70439148</latitude>
+						<altitude>372.2910</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19376373</longitude>
+						<latitude>42.70439148</latitude>
+						<altitude>372.2670</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19376373</longitude>
+						<latitude>42.70439148</latitude>
+						<altitude>372.2340</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19376373</longitude>
+						<latitude>42.70439148</latitude>
+						<altitude>372.1970</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19376373</longitude>
+						<latitude>42.70439148</latitude>
+						<altitude>372.1600</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19376373</longitude>
+						<latitude>42.70439148</latitude>
+						<altitude>372.1280</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19376373</longitude>
+						<latitude>42.70439148</latitude>
+						<altitude>372.1020</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19376373</longitude>
+						<latitude>42.70439148</latitude>
+						<altitude>372.0860</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19373322</longitude>
+						<latitude>42.70438385</latitude>
+						<altitude>396.5150</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19373322</longitude>
+						<latitude>42.70427322</latitude>
+						<altitude>475.7770</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19375610</longitude>
+						<latitude>42.70410919</latitude>
+						<altitude>562.0620</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19378662</longitude>
+						<latitude>42.70393753</latitude>
+						<altitude>640.6590</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19380951</longitude>
+						<latitude>42.70373154</latitude>
+						<altitude>731.2680</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19383240</longitude>
+						<latitude>42.70356750</latitude>
+						<altitude>801.8910</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19384766</longitude>
+						<latitude>42.70337296</latitude>
+						<altitude>880.4781</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19386292</longitude>
+						<latitude>42.70318604</latitude>
+						<altitude>953.8610</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19387817</longitude>
+						<latitude>42.70300674</latitude>
+						<altitude>1022.3270</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19390106</longitude>
+						<latitude>42.70283508</latitude>
+						<altitude>1085.9051</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19391632</longitude>
+						<latitude>42.70269394</latitude>
+						<altitude>1135.2580</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19393158</longitude>
+						<latitude>42.70252609</latitude>
+						<altitude>1190.3401</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19395447</longitude>
+						<latitude>42.70233536</latitude>
+						<altitude>1249.0040</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19396973</longitude>
+						<latitude>42.70217514</latitude>
+						<altitude>1294.6670</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19399261</longitude>
+						<latitude>42.70201874</latitude>
+						<altitude>1336.2830</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19400787</longitude>
+						<latitude>42.70186234</latitude>
+						<altitude>1373.8500</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19402313</longitude>
+						<latitude>42.70171356</latitude>
+						<altitude>1407.4941</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19403076</longitude>
+						<latitude>42.70158768</latitude>
+						<altitude>1432.6280</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19404602</longitude>
+						<latitude>42.70143890</latitude>
+						<altitude>1459.3111</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19405365</longitude>
+						<latitude>42.70131683</latitude>
+						<altitude>1478.7110</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19407654</longitude>
+						<latitude>42.70107269</latitude>
+						<altitude>1509.9240</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19409943</longitude>
+						<latitude>42.70085907</latitude>
+						<altitude>1529.4160</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19410706</longitude>
+						<latitude>42.70069504</latitude>
+						<altitude>1539.1010</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19412231</longitude>
+						<latitude>42.70050812</latitude>
+						<altitude>1544.3530</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19413757</longitude>
+						<latitude>42.70037079</latitude>
+						<altitude>1544.2440</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19414520</longitude>
+						<latitude>42.70023346</latitude>
+						<altitude>1540.6241</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19416046</longitude>
+						<latitude>42.70009613</latitude>
+						<altitude>1533.5341</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19417572</longitude>
+						<latitude>42.69993591</latitude>
+						<altitude>1520.7640</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19419098</longitude>
+						<latitude>42.69977951</latitude>
+						<altitude>1504.6311</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19419098</longitude>
+						<latitude>42.69966888</latitude>
+						<altitude>1490.0071</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19415283</longitude>
+						<latitude>42.69959259</latitude>
+						<altitude>1472.4830</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19406128</longitude>
+						<latitude>42.69949341</latitude>
+						<altitude>1433.8390</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19380951</longitude>
+						<latitude>42.69950104</latitude>
+						<altitude>1296.2511</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19355011</longitude>
+						<latitude>42.69981384</latitude>
+						<altitude>1165.4861</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19311523</longitude>
+						<latitude>42.70025253</latitude>
+						<altitude>1037.5501</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19303894</longitude>
+						<latitude>42.70072937</latitude>
+						<altitude>907.1850</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19283295</longitude>
+						<latitude>42.70108414</latitude>
+						<altitude>778.9930</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19265747</longitude>
+						<latitude>42.70141983</latitude>
+						<altitude>658.7430</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19244385</longitude>
+						<latitude>42.70154572</latitude>
+						<altitude>530.7570</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19218445</longitude>
+						<latitude>42.70168304</latitude>
+						<altitude>448.5470</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19210815</longitude>
+						<latitude>42.70178604</latitude>
+						<altitude>404.9560</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>				<gx:FlyTo>
+					<gx:duration>5.0</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<Camera>
+						<longitude>-77.19207001</longitude>
+						<latitude>42.70185089</latitude>
+						<altitude>372.8710</altitude>
+						<heading>0</heading>
+						<tilt>70</tilt>
+						<altitudeMode>absolute</altitudeMode>
+					</Camera>
+				</gx:FlyTo>
+			</gx:Playlist>
+		</gx:Tour>
+	</Document>
+</kml>

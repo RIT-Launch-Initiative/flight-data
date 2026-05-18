@@ -1,0 +1,2 @@
+magic,timestamp_of_boost_detect__ms,pre_boost_pressure__kpa,bias_x__dps,bias_y__dps,bias_z__dps,bootcount,lockout__ms,num_flight_packets,num_preboost_packets,num_gyro_bias_packets,md5,up_axis_q1,up_axis_q2,up_axis_q3,up_axis_q4,max_effort_iterations,dead_time_iterations,observation_time_iterations,random_number
+2435220000,1422600,97.97799682617188,-0.001123652677051723,0.009748236276209354,0.004263342823833227,362,3150,10620,50,200,63866a9636e711ac0172bf974ed545a8,1.0,0.0,0.0,0.0,100,45,40,12345

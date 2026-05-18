@@ -1,0 +1,48 @@
+Rocket Name,TheBlueRaden!
+Firmware,74b3ab7 04/07/2026 12:36:51
+Serial number,SN2541 TheBlueRaden!
+Max Altitude,3713.65 feet
+Max velocity,544.24 feet/sec
+Pad altitude ASL,943.13 feet
+Launch date,07-Apr-26
+Launch time,13:00:30.840
+Time to first burnout,2.7 sec
+Time to Apo channel fire,15.9 sec
+Time to gyro overload,0.0 sec
+Time to third channel fire,20.3 sec
+Time to main channel fire,54.8 sec
+Time to fourth channel fire,56.4 sec
+Launch rod angle,6.7 deg
+Tilt angle at burnout,14.9 deg
+Roll rate at burnout,86.5 deg/sec
+Thrust tilt efficiency,96.22%
+Number of ascent rolls,1.962
+Horiz. velocity at apogee,142.9 feet/sec
+Inertial navigation max alt,3851.7 feet
+Max motor burn acceleration,10.7 Gs
+Peak drag deceleration,1.1 Gs
+Apo channel max accel,0.1 Gs
+Main channel max accel,3.5 Gs
+3rd channel max accel,2.8 Gs
+4th channel max accel,78.7 Gs
+Max landing accel,63.5 Gs
+Drogue descent rate,-63.6 feet/sec
+Main chute deploy altitude,646.0 feet
+Main chute descent rate,-45.3 feet
+Landing Time,13:01:45.560
+Temperature on pad,91.4 F
+Max Temperature,91.5 F
+Min Temperature,90.60 F
+Battery voltage on pad,8.28 V
+Min Battery voltage,8.27 V
+Battery voltage at landing,8.3 V
+Build date,07-Apr-26
+Build time,12:36:51.000
+Flight number,2
+Direction of 1st motion,-0.0009,0.0033,1.0000
+Gravity direction on pad,-0.1183,0.0086,0.9929
+Low-G accel pad offset,0.0003,-0.0000,-0.0028
+Hi-G accel pad offset,-0.04,-0.05,-0.08
+Pad gyro rates (deg/sec),0.23,-0.07,-0.11
+Pad Hi-G accel,-0.15,-0.05,0.91
+Pad Low-G Accel,-0.12,0.01,0.99
